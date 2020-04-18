@@ -1,21 +1,21 @@
-![printer](assets/printer.jpg)
+![contain](assets/printer.jpg)
 
 This is my Xerox Versalink C405 printer.
 It works fine on my Mac and from phones and tablets.
 But it rarely prints from the Windows 10 Laptop
  
 ---
-![ask-sys-admin](assets/ask-sys-admin.jpg)
+![contain](assets/ask-sys-admin.jpg)
 
 It fails with errors like this. Unfortnately I am the sys admin so I have to fix it
 
 ---
-![tried-sw-update](assets/tried-sw-update.jpg)
+![contain](assets/tried-sw-update.jpg)
 
 I tried to do a Software Update from the printer but no dice.
 
 ---
-![tried-sw-update](assets/tried-sw-update.jpg)
+![contain](assets/tried-sw-update.jpg)
 
 ---
 (video:
@@ -25,13 +25,13 @@ I tried to do a Software Update from the printer but no dice.
 I tried uploading the new firmware over the lan but it hung
 
 ---
-![bad](assets/write-error.jpg)
+![contain](assets/write-error.jpg)
 
 When I went to look at the printer it had this message 'WRITE ERROR 041-500' on the screen.
 It was bricked.
 
 ---
-![fff](assets/fff.jpg)
+![contain](assets/fff.jpg)
 
 Next i tried updating the firmware via USB from a Windows PC.
 That didn't work either.
@@ -58,29 +58,29 @@ That didn't work either.
 Fortunately I found these instructions on the Internet. I put the firmware on a USB key and started the recovery process.
 
 ---
-![fff](assets/special-boot.jpg)
+![contain](assets/special-boot.jpg)
 
 Getting the Special Boot menu up was easy enough, just hold down Home and Power.
 Then it gets harder. You have to press the 'A' in special and the 'B' in boot at the same time.
 It took me forever to get this right. Fortunately someone had made a YouTube video of themselves doing it. You couldn't really see what they did but it meant it looked like it was possible.
 
 ---
-![fff](assets/special-boot.jpg)
+![contain](assets/special-boot.jpg)
 
 After the special boot you enter some magic numbers...
 
 ---
-![fff](assets/download.jpg)
+![contain](assets/download.jpg)
 
 Then you hit Download Mode...
 
 ---
-![fff](assets/off.jpg)
+![contain](assets/off.jpg)
 
 And you are off to the races.
 
 ---
-![fff](assets/tada.jpg)
+![contain](assets/tada.jpg)
 
 At last the bloody thing works again.
 
