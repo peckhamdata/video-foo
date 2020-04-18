@@ -1,4 +1,8 @@
-![contain](assets/printer.jpg)
+![cover](assets/printer.jpg)
+
+```
+Fixing teh Printer
+```
 
 This is my Xerox Versalink C405 printer.
 It works fine on my Mac and from phones and tablets.
@@ -55,6 +59,8 @@ That didn't work either.
 1. At the keypad screen enter code number: 6789#. The SPECIAL BOOT MENU 1/3 screen will display.
 
 1. Select Download Mode on SPECIAL BOOT MENU 1/3, then touch YES. The UI will display SW update progress. The machine will eventually reboot several times
+
+Source: https://forum.support.xerox.com/t5/General-Information/Firmware-Upgrade-Failed/td-p/220229/page/2
 ```
 
 Fortunately I found these instructions on the Internet. I put the firmware on a USB key and started the recovery process.
@@ -82,7 +88,7 @@ Then you hit Download Mode...
 And you are off to the races.
 
 ---
-![contain](assets/tada.jpg)
+![cover](assets/tada.jpg)
 
 At last the bloody thing works again.
 
