@@ -7,7 +7,7 @@ But it rarely prints from the Windows 10 Laptop
 ---
 ![contain](assets/ask-sys-admin.jpg)
 
-It fails with errors like this. Unfortnately I am the sys admin so I have to fix it
+It fails with errors like this. Unfortunately I am the sys admin so I have to fix it
 
 ---
 ![contain](assets/tried-sw-update.jpg)
@@ -36,6 +36,9 @@ Next i tried updating the firmware via USB from a Windows PC.
 That didn't work either.
 
 ---
+
+(font-size: 20)
+
 ```
 1. Download the firmware (.bin) file, refer to support page for the printer.
 
