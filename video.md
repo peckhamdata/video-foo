@@ -19,8 +19,7 @@ I tried to do a Software Update from the printer but no dice.
 
 ---
 (video:
-  file: assets/spin.mov
-  sync: loop)
+  file: assets/spin.mov)
 
 I tried uploading the new firmware over the lan but it hung
 
@@ -65,7 +64,7 @@ Then it gets harder. You have to press the 'A' in special and the 'B' in boot at
 It took me forever to get this right. Fortunately someone had made a YouTube video of themselves doing it. You couldn't really see what they did but it meant it looked like it was possible.
 
 ---
-![contain](assets/special-boot.jpg)
+![contain](assets/magic.jpg)
 
 After the special boot you enter some magic numbers...
 
