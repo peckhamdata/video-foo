@@ -44,21 +44,23 @@ That didn't work either.
 (font-size: 20)
 
 ```
+How to fix teh Printer
+
 1. Download the firmware (.bin) file, refer to support page for the printer.
 
-1. Create a folder named ‘DWLD’ on the USB memory device (FAT formatted).
+2. Create a folder named ‘DWLD’ on the USB memory device (FAT formatted).
 
-1. Store the software download file (.bin) in the ‘DWLD’ folder
+3. Store the software download file (.bin) in the ‘DWLD’ folder
 
-1. Switch off the machine,  Insert the USB memory device (rear of the printer).
+4. Switch off the machine,  Insert the USB memory device (rear of the printer).
 
-1. Simultaneously press then hold down the Home and Power buttons until the device powers on and SPECIAL BOOT MENU appears,
+5. Simultaneously press then hold down the Home and Power buttons until the device powers on and SPECIAL BOOT MENU appears,
 
-1. Simultaneously touch the letters A in SPECIAL, B in BOOT and the Home button. Do not hold any of the three locations, just touch/press then release simultaneously
+6. Simultaneously touch the letters A in SPECIAL, B in BOOT and the Home button. Do not hold any of the three locations, just touch/press then release simultaneously
 
-1. At the keypad screen enter code number: 6789#. The SPECIAL BOOT MENU 1/3 screen will display.
+7. At the keypad screen enter code number: 6789#. The SPECIAL BOOT MENU 1/3 screen will display.
 
-1. Select Download Mode on SPECIAL BOOT MENU 1/3, then touch YES. The UI will display SW update progress. The machine will eventually reboot several times
+8. Select Download Mode on SPECIAL BOOT MENU 1/3, then touch YES. The UI will display SW update progress. The machine will eventually reboot several times
 
 Source: https://forum.support.xerox.com/t5/General-Information/Firmware-Upgrade-Failed/td-p/220229/page/2
 ```
